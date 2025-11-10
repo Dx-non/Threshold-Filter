@@ -1,0 +1,26 @@
+{
+  "app.title": {
+    "defaultMessage": "Threshold Filter",
+    "description": "Title of the plugin that applies a threshold effect like in Photoshop."
+  },
+  "app.description": {
+    "defaultMessage": "Apply a black and white threshold effect to your design image.",
+    "description": "Short explanation shown in the plugin info panel."
+  },
+  "button.apply": {
+    "defaultMessage": "Apply Threshold",
+    "description": "Label for the button that applies the threshold filter."
+  },
+  "label.intensity": {
+    "defaultMessage": "Threshold Level",
+    "description": "Label for slider that adjusts the threshold intensity."
+  },
+  "message.processing": {
+    "defaultMessage": "Processing image...",
+    "description": "Text shown while the threshold effect is being applied."
+  },
+  "message.error": {
+    "defaultMessage": "Something went wrong while applying the filter.",
+    "description": "Error message shown when the process fails."
+  }
+}

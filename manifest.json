@@ -1,0 +1,11 @@
+{
+  "name": "Threshold Filter",
+  "description": "Efek threshold seperti Photoshop — ubah gambar jadi hitam-putih berdasarkan level cahaya.",
+  "version": "1.0.0",
+  "author": "Aryaz Nakamoto",
+  "main": "index.html",
+  "permissions": ["file:read", "file:write"],
+  "capabilities": {
+    "editor": true
+  }
+}
